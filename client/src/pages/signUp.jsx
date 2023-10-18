@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function signOut() {
+export default function signUp() {
   return (
     <div>
-      signingOut
+      signingUp
     </div>
   )
 }
