@@ -1,7 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-export default function signIn() {
+export default function SignIn() {
   return (
     <div>Sign in</div>
-  )
+  );
 }
